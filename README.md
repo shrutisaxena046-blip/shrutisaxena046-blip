@@ -1,57 +1,67 @@
 <h1 align="center">Hi 👋, I'm Shruti Saxena</h1>
 
 <h3 align="center">
-B.Tech AI Student | AI & Data Science Enthusiast 🚀
+AI & Data Science Enthusiast 🚀
 </h3>
 
----
-
-## 🌸 About Me
-
-* 🎓 B.Tech Student specializing in Artificial Intelligence
-* 🤖 Interested in AI, Machine Learning & Data Analytics
-* 💻 Currently building AI + Web Development Projects
-* 🚀 Working on an AI Career Counselling Bot
-* 🌱 Learning Full Stack Development & Deployment
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=B.Tech+AI+Student;Machine+Learning+Enthusiast;Flask+Developer;Future+AI+Engineer" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌌 About Me
 
-<p align="left">
+```yaml
+Name: Shruti Saxena
+Role: B.Tech AI Student
+Focus: AI + Machine Learning + Web Development
+Current Project: AI Career Counselling Bot
+Learning: Full Stack Development & Deployment
+```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-## 📌 Current Project
+# 🚀 Current Project
 
-### AI Career Counselling Bot
+## AI Career Counselling Bot
 
 ✔ Machine Learning Prediction
 ✔ Flask Backend
-✔ HTML + Bootstrap Frontend
 ✔ Student Skill Analysis
 ✔ Career Recommendation System
+✔ HTML + Bootstrap Frontend
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutisaxena046-blip\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shrutisaxena046-blip\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shrutisaxena046-blip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
-<p align="left">
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shrutisaxena046-blip&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 <a href="https://github.com/shrutisaxena046-blip">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
